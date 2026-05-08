@@ -10,7 +10,7 @@ def string_methods():
     Linea 3"""
     
     print(f"Strip: {nombre.strip()}")
-    print(f"Lstrip:{nombre.lstrip()}")
+    print(f"Lstrip: {nombre.lstrip()}")
     print(f"Rstrip: {nombre.rstrip()}")
     print(f"Upper: {frase.upper()}")
     print(f"Lower: {frase.lower()}")
